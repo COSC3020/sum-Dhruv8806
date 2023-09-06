@@ -7,7 +7,7 @@ function sum(a) {
     }
     return sum;
 }
- console.log(sum([6,7,8]))
+// console.log(sum([6,7,8]))
 
 // Incorrect - var sum = a[0]; : Initializes 'sum' to the value of first element of the array.
 // Correct - var sum = 0;  :  Initialize sum to 0 - ensuring that sum starts from zero.
